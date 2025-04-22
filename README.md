@@ -17,6 +17,8 @@
 ### Test report
 ![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture1.PNG?raw=true)
 ### Automation video
+https://github.com/user-attachments/assets/9b1659de-d193-46a7-9724-041485f9ee55
+
 ![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture2.PNG?raw=true)
 ![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture3.PNG?raw=true)
 
