@@ -13,4 +13,7 @@
 
  ## Test Report
 
-![image alt](https://github.com/hasiroy879/Transaction_API_On_Jmeter/blob/main/Transaction.PNG?raw=true)
+![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture1.PNG?raw=true)
+![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture2.PNG?raw=true)
+![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture3.PNG?raw=true)
+
